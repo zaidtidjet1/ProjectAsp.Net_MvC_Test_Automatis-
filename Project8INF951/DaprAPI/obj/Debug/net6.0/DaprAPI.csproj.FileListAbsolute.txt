@@ -1,0 +1,91 @@
+C:\Users\hp\Desktop\Visuel Studio Run\DaprAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hp\Desktop\Visuel Studio Run\DaprAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\hp\Desktop\Visuel Studio Run\DaprAPI\bin\Debug\net6.0\DaprAPI.exe
+C:\Users\hp\Desktop\Visuel Studio Run\DaprAPI\bin\Debug\net6.0\DaprAPI.deps.json
+C:\Users\hp\Desktop\Visuel Studio Run\DaprAPI\bin\Debug\net6.0\DaprAPI.runtimeconfig.json
+C:\Users\hp\Desktop\Visuel Studio Run\DaprAPI\bin\Debug\net6.0\DaprAPI.dll
+C:\Users\hp\Desktop\Visuel Studio Run\DaprAPI\bin\Debug\net6.0\DaprAPI.pdb
+C:\Users\hp\Desktop\Visuel Studio Run\DaprAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\hp\Desktop\Visuel Studio Run\DaprAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hp\Desktop\Visuel Studio Run\DaprAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hp\Desktop\Visuel Studio Run\DaprAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hp\Desktop\Visuel Studio Run\DaprAPI\obj\Debug\net6.0\DaprAPI.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Visuel Studio Run\DaprAPI\obj\Debug\net6.0\DaprAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Visuel Studio Run\DaprAPI\obj\Debug\net6.0\DaprAPI.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Visuel Studio Run\DaprAPI\obj\Debug\net6.0\DaprAPI.AssemblyInfo.cs
+C:\Users\hp\Desktop\Visuel Studio Run\DaprAPI\obj\Debug\net6.0\DaprAPI.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Visuel Studio Run\DaprAPI\obj\Debug\net6.0\DaprAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\Desktop\Visuel Studio Run\DaprAPI\obj\Debug\net6.0\DaprAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\Visuel Studio Run\DaprAPI\obj\Debug\net6.0\staticwebassets\msbuild.DaprAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hp\Desktop\Visuel Studio Run\DaprAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.DaprAPI.props
+C:\Users\hp\Desktop\Visuel Studio Run\DaprAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DaprAPI.props
+C:\Users\hp\Desktop\Visuel Studio Run\DaprAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DaprAPI.props
+C:\Users\hp\Desktop\Visuel Studio Run\DaprAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hp\Desktop\Visuel Studio Run\DaprAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hp\Desktop\Visuel Studio Run\DaprAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hp\Desktop\Visuel Studio Run\DaprAPI\obj\Debug\net6.0\scopedcss\bundle\DaprAPI.styles.css
+C:\Users\hp\Desktop\Visuel Studio Run\DaprAPI\obj\Debug\net6.0\DaprAPI.csproj.CopyComplete
+C:\Users\hp\Desktop\Visuel Studio Run\DaprAPI\obj\Debug\net6.0\DaprAPI.dll
+C:\Users\hp\Desktop\Visuel Studio Run\DaprAPI\obj\Debug\net6.0\refint\DaprAPI.dll
+C:\Users\hp\Desktop\Visuel Studio Run\DaprAPI\obj\Debug\net6.0\DaprAPI.pdb
+C:\Users\hp\Desktop\Visuel Studio Run\DaprAPI\obj\Debug\net6.0\DaprAPI.genruntimeconfig.cache
+C:\Users\hp\Desktop\Visuel Studio Run\DaprAPI\obj\Debug\net6.0\ref\DaprAPI.dll
+C:\Users\hp\Desktop\Visuel Studio Run\Project8INF951\DaprAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hp\Desktop\Visuel Studio Run\Project8INF951\DaprAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\hp\Desktop\Visuel Studio Run\Project8INF951\DaprAPI\bin\Debug\net6.0\DaprAPI.exe
+C:\Users\hp\Desktop\Visuel Studio Run\Project8INF951\DaprAPI\bin\Debug\net6.0\DaprAPI.deps.json
+C:\Users\hp\Desktop\Visuel Studio Run\Project8INF951\DaprAPI\bin\Debug\net6.0\DaprAPI.runtimeconfig.json
+C:\Users\hp\Desktop\Visuel Studio Run\Project8INF951\DaprAPI\bin\Debug\net6.0\DaprAPI.dll
+C:\Users\hp\Desktop\Visuel Studio Run\Project8INF951\DaprAPI\bin\Debug\net6.0\DaprAPI.pdb
+C:\Users\hp\Desktop\Visuel Studio Run\Project8INF951\DaprAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\hp\Desktop\Visuel Studio Run\Project8INF951\DaprAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hp\Desktop\Visuel Studio Run\Project8INF951\DaprAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hp\Desktop\Visuel Studio Run\Project8INF951\DaprAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hp\Desktop\Visuel Studio Run\Project8INF951\DaprAPI\obj\Debug\net6.0\DaprAPI.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Visuel Studio Run\Project8INF951\DaprAPI\obj\Debug\net6.0\DaprAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Visuel Studio Run\Project8INF951\DaprAPI\obj\Debug\net6.0\DaprAPI.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Visuel Studio Run\Project8INF951\DaprAPI\obj\Debug\net6.0\DaprAPI.AssemblyInfo.cs
+C:\Users\hp\Desktop\Visuel Studio Run\Project8INF951\DaprAPI\obj\Debug\net6.0\DaprAPI.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Visuel Studio Run\Project8INF951\DaprAPI\obj\Debug\net6.0\DaprAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\Desktop\Visuel Studio Run\Project8INF951\DaprAPI\obj\Debug\net6.0\DaprAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\Visuel Studio Run\Project8INF951\DaprAPI\obj\Debug\net6.0\staticwebassets\msbuild.DaprAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hp\Desktop\Visuel Studio Run\Project8INF951\DaprAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.DaprAPI.props
+C:\Users\hp\Desktop\Visuel Studio Run\Project8INF951\DaprAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DaprAPI.props
+C:\Users\hp\Desktop\Visuel Studio Run\Project8INF951\DaprAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DaprAPI.props
+C:\Users\hp\Desktop\Visuel Studio Run\Project8INF951\DaprAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hp\Desktop\Visuel Studio Run\Project8INF951\DaprAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hp\Desktop\Visuel Studio Run\Project8INF951\DaprAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hp\Desktop\Visuel Studio Run\Project8INF951\DaprAPI\obj\Debug\net6.0\scopedcss\bundle\DaprAPI.styles.css
+C:\Users\hp\Desktop\Visuel Studio Run\Project8INF951\DaprAPI\obj\Debug\net6.0\DaprAPI.csproj.CopyComplete
+C:\Users\hp\Desktop\Visuel Studio Run\Project8INF951\DaprAPI\obj\Debug\net6.0\DaprAPI.dll
+C:\Users\hp\Desktop\Visuel Studio Run\Project8INF951\DaprAPI\obj\Debug\net6.0\refint\DaprAPI.dll
+C:\Users\hp\Desktop\Visuel Studio Run\Project8INF951\DaprAPI\obj\Debug\net6.0\DaprAPI.pdb
+C:\Users\hp\Desktop\Visuel Studio Run\Project8INF951\DaprAPI\obj\Debug\net6.0\DaprAPI.genruntimeconfig.cache
+C:\Users\hp\Desktop\Visuel Studio Run\Project8INF951\DaprAPI\obj\Debug\net6.0\ref\DaprAPI.dll
+C:\Users\J A\Downloads\Project8INF951\DaprAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\J A\Downloads\Project8INF951\DaprAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\J A\Downloads\Project8INF951\DaprAPI\bin\Debug\net6.0\DaprAPI.exe
+C:\Users\J A\Downloads\Project8INF951\DaprAPI\bin\Debug\net6.0\DaprAPI.deps.json
+C:\Users\J A\Downloads\Project8INF951\DaprAPI\bin\Debug\net6.0\DaprAPI.runtimeconfig.json
+C:\Users\J A\Downloads\Project8INF951\DaprAPI\bin\Debug\net6.0\DaprAPI.dll
+C:\Users\J A\Downloads\Project8INF951\DaprAPI\bin\Debug\net6.0\DaprAPI.pdb
+C:\Users\J A\Downloads\Project8INF951\DaprAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\J A\Downloads\Project8INF951\DaprAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\J A\Downloads\Project8INF951\DaprAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\J A\Downloads\Project8INF951\DaprAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\J A\Downloads\Project8INF951\DaprAPI\obj\Debug\net6.0\DaprAPI.csproj.AssemblyReference.cache
+C:\Users\J A\Downloads\Project8INF951\DaprAPI\obj\Debug\net6.0\DaprAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\J A\Downloads\Project8INF951\DaprAPI\obj\Debug\net6.0\DaprAPI.AssemblyInfoInputs.cache
+C:\Users\J A\Downloads\Project8INF951\DaprAPI\obj\Debug\net6.0\DaprAPI.AssemblyInfo.cs
+C:\Users\J A\Downloads\Project8INF951\DaprAPI\obj\Debug\net6.0\DaprAPI.csproj.CoreCompileInputs.cache
+C:\Users\J A\Downloads\Project8INF951\DaprAPI\obj\Debug\net6.0\DaprAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\J A\Downloads\Project8INF951\DaprAPI\obj\Debug\net6.0\DaprAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\J A\Downloads\Project8INF951\DaprAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\J A\Downloads\Project8INF951\DaprAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\J A\Downloads\Project8INF951\DaprAPI\obj\Debug\net6.0\scopedcss\bundle\DaprAPI.styles.css
+C:\Users\J A\Downloads\Project8INF951\DaprAPI\obj\Debug\net6.0\DaprAPI.csproj.CopyComplete
+C:\Users\J A\Downloads\Project8INF951\DaprAPI\obj\Debug\net6.0\DaprAPI.dll
+C:\Users\J A\Downloads\Project8INF951\DaprAPI\obj\Debug\net6.0\refint\DaprAPI.dll
+C:\Users\J A\Downloads\Project8INF951\DaprAPI\obj\Debug\net6.0\DaprAPI.pdb
+C:\Users\J A\Downloads\Project8INF951\DaprAPI\obj\Debug\net6.0\DaprAPI.genruntimeconfig.cache
+C:\Users\J A\Downloads\Project8INF951\DaprAPI\obj\Debug\net6.0\ref\DaprAPI.dll

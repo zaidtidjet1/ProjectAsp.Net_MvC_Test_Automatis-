@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xNuykyTtllaMIT+QZ0aFN0ZVVaYBP4VJdnhA7c+Hl14=",
+  "Source": "DaprAPI",
+  "BasePath": "_content/DaprAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
